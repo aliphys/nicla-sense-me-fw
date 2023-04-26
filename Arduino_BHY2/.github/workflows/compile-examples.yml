@@ -1,4 +1,4 @@
-name: Compile Examples
+name: Compile Examples - Arduino_BHY2 Library
 
 # See: https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 on:
